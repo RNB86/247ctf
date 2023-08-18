@@ -49,7 +49,7 @@ def answer_server(my_answer):
 
 for i in range(number_of_questions):
     # receive server response
-    print("Question " + str(i))
+    print("Question " + str(i+1))
     server_response = ask_server()
     # srv msg is not empty
     # send srv msg to the function and get the answer
