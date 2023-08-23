@@ -1,0 +1,5 @@
+We created a hidden painting which will lead you to the flag. Can you connect the dots and piece it back together?
+My solution:
+secret_map.py
+secret_map.txt (task required to be in the same folder as secret_map.py)
+And let the magic happen...
