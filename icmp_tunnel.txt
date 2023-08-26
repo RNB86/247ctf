@@ -1,0 +1,2 @@
+Can you identify the flag hidden within the error messages of this ICMP traffic?
+My solution containg two files: error_reporting.pcap(captured traffic, a file provided as a task), and icmp_tunnel.py (my solution). After running the script you will receive my_raw.jpg with answer for the task.
